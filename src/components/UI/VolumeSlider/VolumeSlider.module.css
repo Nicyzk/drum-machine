@@ -1,0 +1,34 @@
+.volumeContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.volumeBtn {
+    font-size: 1.3rem;
+}
+
+.sliderContainer{
+    display: flex;
+    align-items: center;
+}
+
+.slider {
+    height: 5px;
+    width: 120px;
+}
+
+.blockingDiv{
+    height: 20px;
+    width: 140px;
+    background-color: white;
+    z-index: 1;
+    position: absolute;
+    transition: 0.5s;
+}
+
+.volumeBtn:hover {
+    cursor: pointer;
+    color: rgb(10, 110, 141);
+    transition: 0.5s;
+}
