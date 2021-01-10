@@ -1,7 +1,7 @@
 # Drum Machine
 
 ## Description
-Drum machine react web application inspired by FCC front-end libraries project
+Drum machine react web application inspired by FCC front-end libraries project\
 Features include:
 - beautiful UI
 - 2 modes of sounds - smooth piano kit and heater kit, each with many different instruments
